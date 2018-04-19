@@ -1,0 +1,85 @@
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.1 (win64) Build 1846317 Fri Apr 14 18:55:03 MDT 2017
+| Date         : Thu Jun 22 16:51:19 2017
+| Host         : DESKTOP-BAH3KM4 running 64-bit major release  (build 9200)
+| Command      : report_control_sets -verbose -file design_1_wrapper_control_sets_placed.rpt
+| Design       : design_1_wrapper
+| Device       : xc7a35t
+---------------------------------------------------------------------------------------------
+
+Control Set Information
+
+Table of Contents
+-----------------
+1. Summary
+2. Flip-Flop Distribution
+3. Detailed Control Set Information
+
+1. Summary
+----------
+
++----------------------------------------------------------+-------+
+|                          Status                          | Count |
++----------------------------------------------------------+-------+
+| Number of unique control sets                            |    16 |
+| Unused register locations in slices containing registers |    63 |
++----------------------------------------------------------+-------+
+
+
+2. Flip-Flop Distribution
+-------------------------
+
++--------------+-----------------------+------------------------+-----------------+--------------+
+| Clock Enable | Synchronous Set/Reset | Asynchronous Set/Reset | Total Registers | Total Slices |
++--------------+-----------------------+------------------------+-----------------+--------------+
+| No           | No                    | No                     |              55 |           24 |
+| No           | No                    | Yes                    |               0 |            0 |
+| No           | Yes                   | No                     |              20 |            6 |
+| Yes          | No                    | No                     |              10 |            4 |
+| Yes          | No                    | Yes                    |              17 |            6 |
+| Yes          | Yes                   | No                     |              51 |           14 |
++--------------+-----------------------+------------------------+-----------------+--------------+
+
+
+3. Detailed Control Set Information
+-----------------------------------
+
++------------------------------------------+---------------------------------------------------+--------------------------------------------------+------------------+----------------+
+|               Clock Signal               |                   Enable Signal                   |                 Set/Reset Signal                 | Slice Load Count | Bel Load Count |
++------------------------------------------+---------------------------------------------------+--------------------------------------------------+------------------+----------------+
+| ~design_1_i/one_HZ_time_0/U0/clkout1     |                                                   |                                                  |                1 |              1 |
+|  design_1_i/one_HZ_time_0/U0/clkout1M    | design_1_i/controller_0/U0/state[1]_i_1_n_0       | ele_rst_IBUF                                     |                1 |              2 |
+|  design_1_i/one_HZ_time_0/U0/clkout1     |                                                   |                                                  |                1 |              4 |
+|  design_1_i/one_HZ_time_0/U0/clkout1M    | design_1_i/kb_0/U0/count[3]_i_1_n_0               | design_1_i/kb_0/U0/p_0_in                        |                1 |              4 |
+|  design_1_i/one_HZ_time_0/U0/clkout1M    | design_1_i/controller_0/U0/t_floor[4]_i_1_n_0     |                                                  |                2 |              5 |
+|  design_1_i/one_HZ_time_0/U0/clkout1M    | design_1_i/controller_0/U0/p_3_in                 |                                                  |                2 |              5 |
+|  clkin_IBUF_BUFG                         |                                                   | design_1_i/one_HZ_time_0/U0/counter3[5]_i_1_n_0  |                2 |              5 |
+|  design_1_i/one_three_0/U0/one_three_clk | design_1_i/controller_0/U0/int_c_floor[4]_i_1_n_0 | ele_rst_IBUF                                     |                3 |              5 |
+| ~design_1_i/one_HZ_time_0/U0/clkout1     | design_1_i/controller_0/U0/state_reg_n_0_[0]      | design_1_i/controller_0/U0/use_time[5]_i_2_n_0   |                1 |              6 |
+|  clkin_IBUF_BUFG                         |                                                   |                                                  |                6 |              7 |
+|  design_1_i/dis_floor_0/U0/neqOp         |                                                   |                                                  |                3 |             11 |
+|  design_1_i/one_HZ_time_0/U0/clkout1M    |                                                   |                                                  |                5 |             12 |
+|  clkin_IBUF_BUFG                         |                                                   | design_1_i/one_HZ_time_0/U0/clkout1K_0           |                4 |             15 |
+|  design_1_i/one_HZ_time_0/U0/clkout1K    |                                                   |                                                  |                8 |             20 |
+|  clkin_IBUF_BUFG                         | design_1_i/one_HZ_time_0/U0/counter10             | design_1_i/one_HZ_time_0/U0/counter1[25]_i_1_n_0 |                7 |             25 |
+|  clkin_IBUF_BUFG                         | design_1_i/one_HZ_time_0/U0/counter4[26]_i_2_n_0  | design_1_i/one_HZ_time_0/U0/counter4[26]_i_1_n_0 |                7 |             26 |
++------------------------------------------+---------------------------------------------------+--------------------------------------------------+------------------+----------------+
+
+
++--------+-----------------------+
+| Fanout | Number of ControlSets |
++--------+-----------------------+
+| 1      |                     1 |
+| 2      |                     1 |
+| 4      |                     2 |
+| 5      |                     4 |
+| 6      |                     1 |
+| 7      |                     1 |
+| 11     |                     1 |
+| 12     |                     1 |
+| 15     |                     1 |
+| 16+    |                     3 |
++--------+-----------------------+
+
+

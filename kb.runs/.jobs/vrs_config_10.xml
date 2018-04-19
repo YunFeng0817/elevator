@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="key_kb_0_0_synth_1" LaunchDir="C:/Users/chenj/kb/kb.runs/key_kb_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="key_one_HZ_time_0_0_synth_1" LaunchDir="C:/Users/chenj/kb/kb.runs/key_one_HZ_time_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="C:/Users/chenj/kb/kb.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="key_kb_0_0_synth_1"/>
+		<Parent Id="key_one_HZ_time_0_0_synth_1"/>
+	</Run>
+</Runs>
+

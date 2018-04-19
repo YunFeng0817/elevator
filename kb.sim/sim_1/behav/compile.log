@@ -1,0 +1,36 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/hdl/design_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado project/17年春数字电路大作业/kb.srcs/sources_1/bd/design_1/hdl/design_1_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado project/17年春数字电路大作业/kb.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/vivado project/17年春数字电路大作业/kb.srcs/sources_1/new/dis_common.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity dis_common
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/vivado project/17年春数字电路大作业/kb.srcs/sources_1/new/dis_floor.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity dis_floor
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/vivado project/17年春数字电路大作业/kb.srcs/sources_1/new/time_module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity one_HZ_time
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/vivado project/17年春数字电路大作业/kb.srcs/sources_1/new/dis_time.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity dis_time
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/vivado project/17年春数字电路大作业/kb.srcs/sources_1/new/controller.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity controller
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/vivado project/17年春数字电路大作业/kb.srcs/sources_1/new/one_three.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity one_three
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/vivado project/17年春数字电路大作业/kb.srcs/sources_1/new/kb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity kb
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/ip/design_1_dis_common_0_0_1/sim/design_1_dis_common_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_dis_common_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/ip/design_1_dis_floor_0_0/sim/design_1_dis_floor_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_dis_floor_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/ip/design_1_one_HZ_time_0_0_1/sim/design_1_one_HZ_time_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_one_HZ_time_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/ip/design_1_dis_common_1_0/sim/design_1_dis_common_1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_dis_common_1_0
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/ip/design_1_dis_time_0_0/sim/design_1_dis_time_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_dis_time_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/ip/design_1_controller_0_0/sim/design_1_controller_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_controller_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/ip/design_1_one_three_0_0/sim/design_1_one_three_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_one_three_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/ip/design_1_kb_0_0/sim/design_1_kb_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_kb_0_0

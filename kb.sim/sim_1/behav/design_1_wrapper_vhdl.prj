@@ -1,0 +1,19 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../kb.srcs/sources_1/new/dis_common.vhd"
+vhdl xil_defaultlib  "../../../kb.srcs/sources_1/new/dis_floor.vhd"
+vhdl xil_defaultlib  "../../../kb.srcs/sources_1/new/time_module.vhd"
+vhdl xil_defaultlib  "../../../kb.srcs/sources_1/new/dis_time.vhd"
+vhdl xil_defaultlib  "../../../kb.srcs/sources_1/new/controller.vhd"
+vhdl xil_defaultlib  "../../../kb.srcs/sources_1/new/one_three.vhd"
+vhdl xil_defaultlib  "../../../kb.srcs/sources_1/new/kb.vhd"
+vhdl xil_defaultlib  "../../../kb.ip_user_files/bd/design_1/ip/design_1_dis_common_0_0_1/sim/design_1_dis_common_0_0.vhd"
+vhdl xil_defaultlib  "../../../kb.ip_user_files/bd/design_1/ip/design_1_dis_floor_0_0/sim/design_1_dis_floor_0_0.vhd"
+vhdl xil_defaultlib  "../../../kb.ip_user_files/bd/design_1/ip/design_1_one_HZ_time_0_0_1/sim/design_1_one_HZ_time_0_0.vhd"
+vhdl xil_defaultlib  "../../../kb.ip_user_files/bd/design_1/ip/design_1_dis_common_1_0/sim/design_1_dis_common_1_0.vhd"
+vhdl xil_defaultlib  "../../../kb.ip_user_files/bd/design_1/ip/design_1_dis_time_0_0/sim/design_1_dis_time_0_0.vhd"
+vhdl xil_defaultlib  "../../../kb.ip_user_files/bd/design_1/ip/design_1_controller_0_0/sim/design_1_controller_0_0.vhd"
+vhdl xil_defaultlib  "../../../kb.ip_user_files/bd/design_1/ip/design_1_one_three_0_0/sim/design_1_one_three_0_0.vhd"
+vhdl xil_defaultlib  "../../../kb.ip_user_files/bd/design_1/ip/design_1_kb_0_0/sim/design_1_kb_0_0.vhd"
+
+# Do not sort compile order
+nosort

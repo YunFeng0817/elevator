@@ -1,0 +1,8 @@
+Vivado Simulator 2017.1
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2017.1/bin/unwrapped/win64.o/xelab.exe -wto 45cf13b84a7c4874873a5cbe99e7a43e --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot design_1_wrapper_behav xil_defaultlib.design_1_wrapper xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-716] formal port run_time of mode buffer cannot be associated with actual port run_time of mode out [E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/ip/design_1_controller_0_0/sim/design_1_controller_0_0.vhd:82]
+ERROR: [VRFC 10-716] formal port c_floor of mode buffer cannot be associated with actual port c_floor of mode out [E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/ip/design_1_controller_0_0/sim/design_1_controller_0_0.vhd:83]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

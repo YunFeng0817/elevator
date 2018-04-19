@@ -1,0 +1,22 @@
+0.6
+2017.1
+Apr 14 2017
+19:10:27
+E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/hdl/design_1.v,1498121299,verilog,,,,design_1,,,,,,,,
+E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/ip/design_1_controller_0_0/sim/design_1_controller_0_0.vhd,1498116653,vhdl,,,,design_1_controller_0_0,,,,,,,,
+E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/ip/design_1_dis_common_0_0_1/sim/design_1_dis_common_0_0.vhd,1498119155,vhdl,,,,design_1_dis_common_0_0,,,,,,,,
+E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/ip/design_1_dis_common_1_0/sim/design_1_dis_common_1_0.vhd,1498119155,vhdl,,,,design_1_dis_common_1_0,,,,,,,,
+E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/ip/design_1_dis_floor_0_0/sim/design_1_dis_floor_0_0.vhd,1498119155,vhdl,,,,design_1_dis_floor_0_0,,,,,,,,
+E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/ip/design_1_dis_time_0_0/sim/design_1_dis_time_0_0.vhd,1498026712,vhdl,,,,design_1_dis_time_0_0,,,,,,,,
+E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/ip/design_1_kb_0_0/sim/design_1_kb_0_0.vhd,1498120678,vhdl,,,,design_1_kb_0_0,,,,,,,,
+E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/ip/design_1_one_HZ_time_0_0_1/sim/design_1_one_HZ_time_0_0.vhd,1498119155,vhdl,,,,design_1_one_hz_time_0_0,,,,,,,,
+E:/vivado project/17年春数字电路大作业/kb.ip_user_files/bd/design_1/ip/design_1_one_three_0_0/sim/design_1_one_three_0_0.vhd,1498120678,vhdl,,,,design_1_one_three_0_0,,,,,,,,
+E:/vivado project/17年春数字电路大作业/kb.sim/sim_1/behav/glbl.v,1492045073,verilog,,,,glbl,,,,,,,,
+E:/vivado project/17年春数字电路大作业/kb.srcs/sources_1/bd/design_1/hdl/design_1_wrapper.v,1498121299,verilog,,,,design_1_wrapper,,,,,,,,
+E:/vivado project/17年春数字电路大作业/kb.srcs/sources_1/new/controller.vhd,1498116569,vhdl,,,,controller,,,,,,,,
+E:/vivado project/17年春数字电路大作业/kb.srcs/sources_1/new/dis_common.vhd,1498099650,vhdl,,,,dis_common,,,,,,,,
+E:/vivado project/17年春数字电路大作业/kb.srcs/sources_1/new/dis_floor.vhd,1498098858,vhdl,,,,dis_floor,,,,,,,,
+E:/vivado project/17年春数字电路大作业/kb.srcs/sources_1/new/dis_time.vhd,1497995788,vhdl,,,,dis_time,,,,,,,,
+E:/vivado project/17年春数字电路大作业/kb.srcs/sources_1/new/kb.vhd,1498109856,vhdl,,,,kb,,,,,,,,
+E:/vivado project/17年春数字电路大作业/kb.srcs/sources_1/new/one_three.vhd,1497993180,vhdl,,,,one_three,,,,,,,,
+E:/vivado project/17年春数字电路大作业/kb.srcs/sources_1/new/time_module.vhd,1498041224,vhdl,,,,one_hz_time,,,,,,,,
